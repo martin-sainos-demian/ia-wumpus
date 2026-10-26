@@ -1,0 +1,15 @@
+{
+  "id": "m6_mixto",
+  "n": 4,
+  "semilla": 62,
+  "densidad": 0.2,
+  "politica": "ruta_segura",
+  "descripcion": "Caso mixto: pozos ambiguos, un Wumpus localizable por hedor y varias vueltas atrás hasta el oro.",
+  "pozos": [
+    [3, 1],
+    [4, 1],
+    [3, 3]
+  ],
+  "wumpus": [4, 4],
+  "oro": [3, 2]
+}

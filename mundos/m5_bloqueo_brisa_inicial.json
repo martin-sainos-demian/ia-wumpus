@@ -1,0 +1,15 @@
+{
+  "id": "m5_bloqueo_brisa_inicial",
+  "n": 4,
+  "semilla": 2,
+  "densidad": 0.2,
+  "politica": "ruta_segura",
+  "descripcion": "Brisa en (1,1): hay un pozo en (2,1) o en (1,2) y ninguna de las dos se puede demostrar segura. El agente no puede justificar ningún movimiento: debe reportar bloqueo por falta de conocimiento (no es un fallo lógico).",
+  "pozos": [
+    [2, 1],
+    [3, 1],
+    [4, 4]
+  ],
+  "wumpus": [3, 4],
+  "oro": [1, 2]
+}

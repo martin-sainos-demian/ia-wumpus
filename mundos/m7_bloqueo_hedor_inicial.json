@@ -1,0 +1,15 @@
+{
+  "id": "m7_bloqueo_hedor_inicial",
+  "n": 4,
+  "semilla": 3,
+  "densidad": 0.2,
+  "politica": "ruta_segura",
+  "descripcion": "Hedor en (1,1): el Wumpus está en (2,1) o en (1,2). Ninguna vecina es demostrablemente segura y disparar a ciegas no tiene justificación lógica. Bloqueo por falta de conocimiento.",
+  "pozos": [
+    [4, 1],
+    [2, 3],
+    [3, 3]
+  ],
+  "wumpus": [1, 2],
+  "oro": [4, 2]
+}

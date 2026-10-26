@@ -1,0 +1,15 @@
+{
+  "id": "m4_retroceso",
+  "n": 4,
+  "semilla": 80,
+  "densidad": 0.2,
+  "politica": "ruta_segura",
+  "descripcion": "Callejones sin salida: hay que volver sobre casillas ya visitadas (seguras) para alcanzar una nueva frontera antes de encontrar el oro.",
+  "pozos": [
+    [4, 2],
+    [2, 3],
+    [1, 4]
+  ],
+  "wumpus": [2, 2],
+  "oro": [1, 3]
+}

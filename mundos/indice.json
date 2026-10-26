@@ -1,0 +1,112 @@
+[
+  {
+    "archivo": "m1_sin_peligro_inicial.json",
+    "n": 4,
+    "referencia": {
+      "exito": true,
+      "bloqueo": false,
+      "movs": 10,
+      "retro": 1,
+      "brisas": 1,
+      "hedores": 3,
+      "pozo_cierto": true,
+      "wumpus_cierto": true,
+      "disparo": false
+    }
+  },
+  {
+    "archivo": "m2_ambiguedad_pozos.json",
+    "n": 4,
+    "referencia": {
+      "exito": true,
+      "bloqueo": false,
+      "movs": 12,
+      "retro": 1,
+      "brisas": 3,
+      "hedores": 0,
+      "pozo_cierto": true,
+      "wumpus_cierto": false,
+      "disparo": false
+    }
+  },
+  {
+    "archivo": "m3_wumpus_custodia_oro.json",
+    "n": 4,
+    "referencia": {
+      "exito": true,
+      "bloqueo": false,
+      "movs": 12,
+      "retro": 4,
+      "brisas": 3,
+      "hedores": 2,
+      "pozo_cierto": true,
+      "wumpus_cierto": true,
+      "disparo": true
+    }
+  },
+  {
+    "archivo": "m4_retroceso.json",
+    "n": 4,
+    "referencia": {
+      "exito": true,
+      "bloqueo": false,
+      "movs": 14,
+      "retro": 6,
+      "brisas": 3,
+      "hedores": 3,
+      "pozo_cierto": true,
+      "wumpus_cierto": true,
+      "disparo": false
+    }
+  },
+  {
+    "archivo": "m5_bloqueo_brisa_inicial.json",
+    "n": 4,
+    "referencia": {
+      "exito": false,
+      "bloqueo": true,
+      "movs": 0,
+      "retro": 0,
+      "brisas": 1,
+      "hedores": 0,
+      "pozo_cierto": false,
+      "wumpus_cierto": false,
+      "disparo": false
+    }
+  },
+  {
+    "archivo": "m6_mixto.json",
+    "n": 4,
+    "referencia": {
+      "exito": true,
+      "bloqueo": false,
+      "movs": 16,
+      "retro": 4,
+      "brisas": 4,
+      "hedores": 1,
+      "pozo_cierto": true,
+      "wumpus_cierto": true,
+      "disparo": false
+    }
+  },
+  {
+    "archivo": "m7_bloqueo_hedor_inicial.json",
+    "n": 4,
+    "referencia": {
+      "exito": false,
+      "bloqueo": true,
+      "movs": 0,
+      "retro": 0,
+      "brisas": 0,
+      "hedores": 1,
+      "pozo_cierto": false,
+      "wumpus_cierto": false,
+      "disparo": false
+    }
+  },
+  {
+    "archivo": "m8_5x5_opcional.json",
+    "n": 5,
+    "referencia": null
+  }
+]

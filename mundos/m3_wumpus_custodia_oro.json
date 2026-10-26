@@ -1,0 +1,15 @@
+{
+  "id": "m3_wumpus_custodia_oro",
+  "n": 4,
+  "semilla": 64,
+  "densidad": 0.2,
+  "politica": "aleatoria",
+  "descripcion": "El Wumpus está en la misma casilla que el oro: no hay ruta segura sin matarlo. El agente debe localizarlo con dos hedores, disparar con justificación (hay línea de tiro desde una casilla segura visitada) y recién entonces recoger el oro.",
+  "pozos": [
+    [3, 1],
+    [3, 3],
+    [4, 3]
+  ],
+  "wumpus": [1, 3],
+  "oro": [1, 3]
+}

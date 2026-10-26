@@ -1,0 +1,15 @@
+{
+  "id": "m1_sin_peligro_inicial",
+  "n": 4,
+  "semilla": 13,
+  "densidad": 0.2,
+  "politica": "ruta_segura",
+  "descripcion": "Sin percepciones de peligro en la casilla inicial: las dos vecinas de (1,1) están libres, se puede explorar desde el primer paso. El Wumpus está en el centro y hay que localizarlo por el hedor para rodearlo.",
+  "pozos": [
+    [4, 3],
+    [2, 4],
+    [4, 4]
+  ],
+  "wumpus": [2, 2],
+  "oro": [4, 1]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "m8_5x5_opcional",
+  "n": 5,
+  "semilla": 85,
+  "densidad": 0.2,
+  "politica": "ruta_segura",
+  "descripcion": "Mundo opcional 5×5 con Wumpus custodiando el camino (semilla 85): exige disparo justificado y 24 movimientos. El oráculo no se aplica en 5×5 (es exponencial); sirve para medir el costo de inferencia con más casillas.",
+  "pozos": [
+    [5, 1],
+    [2, 3],
+    [1, 5],
+    [4, 5],
+    [5, 5]
+  ],
+  "wumpus": [3, 2],
+  "oro": [5, 2]
+}
